@@ -1,1 +1,1 @@
-git@github.com:Piligrim9995/vtoroy_proect.git
+git@github.com:Piligrim9995/posmotri_v_okno.git
