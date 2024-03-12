@@ -5,7 +5,7 @@
 }
 
 html {
-  block-size: 100%;
+  block-size: 800px;
 }
 
 .page {
@@ -286,5 +286,5 @@ background-color:rgba(84, 80, 80, 1);
 
 .more-button {
   width: 100%;
-  padding: 6px 146.5px;
+  padding: 6px 144px;
 }
