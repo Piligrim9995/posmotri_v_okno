@@ -149,9 +149,11 @@ text-align: left;
 
 .search-form__pseudo-checkbox::after{
   content: '';
-  position: absolute;
   inset: 0px;
-  background-color: transparent;
+  display: block;
+  width: 15px;
+  height: 15px;
+  margin: 1px;
   cursor: pointer;
 }
 
