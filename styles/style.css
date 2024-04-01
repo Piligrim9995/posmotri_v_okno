@@ -14,7 +14,7 @@ html {
   align-items: center;
   margin: auto;
   color: #fff;
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
   inline-size: 1200px;
@@ -155,7 +155,7 @@ ol {
 
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::after {
   background-color: rgba(255, 255, 255, 1);
-  content: "";
+  content: '';
   width: 18px;
   height: 17px;
   border: 1px solid black;
@@ -164,7 +164,7 @@ ol {
 .button {
   border: 1px solid currentColor;
   color: #fff;
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 22px;
@@ -204,7 +204,7 @@ ol {
 .title {
   margin-right: 139px;
   color: rgba(255, 255, 255, 1);
-  font-family: "Oswald", sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 75px;
   line-height: 70.5px;
@@ -271,7 +271,7 @@ ol {
 
 .content__video-card-title {
   margin-bottom: 6px;
-  font-family: "Oswald", sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 30px;
   line-height: 30px;
@@ -283,7 +283,7 @@ ol {
 }
 
 .content__video-card-description {
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 16.2px;
